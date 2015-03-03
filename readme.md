@@ -6,7 +6,7 @@ General steps to create a project:
 2. Import the .unityPackage for Kinect to the project.
 3. Create a empty GameObject and add the BodySourceManager script to it. Name this BodySourceManager
 4. Add a character model, be sure this is designed to match that of Kinect Y follows the direction of the bone.
-5. From the Hierarchy, select the model and from the Kinect menu select Create KinectMapper
+5. From the Hierarchy, select the model and from the Kinect menu select Create KinectMapper. Ensure the mesh model is correct for the Mapped Mesh object property in the Inspector.
 6. From the Inspector, map specific joints you want to see affect on the model. Remember, Kinect joint rotations are for the parent.
 
 Joint Visualizer
