@@ -2,7 +2,7 @@ You will need Unity Pro 4 and the Kinect for Windows v2 plug-in. The Unity plug-
 
 General steps to create a project:
 -
-1. Create a new Unity Project and add code to the Assest folder.
+1. Create a new Unity Project and add code to the Assets folder.
 2. Import the .unityPackage for Kinect to the project.
 3. Create a empty GameObject and add the BodySourceManager script to it. Name this BodySourceManager
 4. Add a character model, be sure this is designed to match that of Kinect Y follows the direction of the bone.
